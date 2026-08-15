@@ -24,7 +24,7 @@ Here, the password reset is shown to be successful.
 
 Here, I checked back with the user to make sure they were satisfied.
 
-![Confirming with user](media/image5.png)
+![Confirming with user](https://github.com/lorentzbissereth-arch/TicketResponseLab/blob/d5397fd85261f421d60ce04a0d8d36acd95b85cd/image5.png)
 
 I then closed the ticket to clear up space in the ticket manager.
 
