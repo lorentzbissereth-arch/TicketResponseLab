@@ -8,7 +8,7 @@ Here, I replicated receiving a ticket for a user who had forgotten their passwor
 
 Here, I located the user in Active Directory by right-clicking on `lolo.local`, then clicking **Find**.
 
-![Locating the user](media/image1.png)
+![Locating the user](https://github.com/lorentzbissereth-arch/TicketResponseLab/blob/f0af211a65acbab024e07dc425da82b4a9513375/image1.png)
 
 ## Resetting the Password
 
