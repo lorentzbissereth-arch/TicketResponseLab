@@ -28,7 +28,7 @@ Here, I checked back with the user to make sure they were satisfied.
 
 I then closed the ticket to clear up space in the ticket manager.
 
-![Closing the ticket](media/image4.png)
+![Closing the ticket](https://github.com/lorentzbissereth-arch/TicketResponseLab/blob/3793a6e51b22b2065adcedece78a2255c4fa8884/image4.png)
 
 ## Summary
 
