@@ -18,7 +18,7 @@ Here, I reset the password for the user, unlocked the user's account, and gave i
 
 Here, the password reset is shown to be successful.
 
-![Successful reset](media/image3.png)
+![Successful reset](https://github.com/lorentzbissereth-arch/TicketResponseLab/blob/b8e98810138707a436b15d2fdebb60db8e352711/image3.png)
 
 ## Confirming with the User
 
