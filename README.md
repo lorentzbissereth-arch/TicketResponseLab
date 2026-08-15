@@ -3,7 +3,7 @@
 
 Here, I replicated receiving a ticket for a user who had forgotten their password and was locked out of their account.
 
-![Ticket received](media/image2.png)
+![Ticket received]([media/image2.png](https://github.com/lorentzbissereth-arch/TicketResponseLab/blob/d050dff17fc20315de7c7682067ab1dffc55b919/image2.png))
 
 ## Locating the User
 
