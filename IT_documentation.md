@@ -14,7 +14,7 @@ Here, I located the user in Active Directory by right-clicking on `lolo.local`, 
 
 Here, I reset the password for the user, unlocked the user's account, and gave it a strong password by right-clicking on the user and selecting **Reset Password**.
 
-![Resetting the password](media/image6.png)
+![Resetting the password](https://github.com/lorentzbissereth-arch/TicketResponseLab/blob/e508d8e9b307499352a80198caad0432dae93a3e/image6.png)
 
 Here, the password reset is shown to be successful.
 
